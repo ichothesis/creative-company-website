@@ -140,6 +140,11 @@ section {
   align-items: center;
 }
 
+.navigation .social-bar a {
+  display: inline-block;
+  transform: scale(0.5);
+}
+
 .navigation .email-icon {
   position: absolute;
   bottom: 20px;
